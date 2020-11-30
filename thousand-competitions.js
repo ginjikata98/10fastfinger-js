@@ -27,5 +27,6 @@ const util = require('./util');
 
     }
 
+    process.exit(1)
 
 })();
